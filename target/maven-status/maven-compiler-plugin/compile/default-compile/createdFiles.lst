@@ -1,0 +1,5 @@
+com/occ/namescore/NameScoreApplication.class
+com/occ/namescore/exception/NameScoreException.class
+com/occ/namescore/model/Person.class
+com/occ/namescore/util/NameScoreConstants.class
+com/occ/namescore/service/ScoreCalculatorService.class
